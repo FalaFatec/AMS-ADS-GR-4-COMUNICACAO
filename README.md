@@ -3,7 +3,7 @@
 ## Planejamento inicial - 20/05
 
 As ideias de projetos propostas pelos corpos docente e discente foram atribuídas às equipes. Esse projeto foi proposto pelo prof. Carlos Verissimo juntamente com as ideias propostas pelos alunos, e por meio de um sorteio, foi decidido que o Fala Fatec seria nosso projeto.
-A equipe responsável por esse projeto é composta pelos integrantes [@Alexandre Sluzek Neto](https://www.linkedin.com/in/gustavo-almeida-carvalho-39b22b219/), [@Arthur Donato de Souza Serafim](https://www.linkedin.com/in/pedro-henrique-peruzzi-vanderlei-bb66321a2/), [@Gabriela Delbue Garbin](https://github.com/JGAR77), [@Matheus Castanharo de Brito](https://www.linkedin.com/in/nathan-morais-487369232/), [@Vinicius Mazon Viturino](https://www.linkedin.com/in/yago-cauan-71717421b/), [@Vinicius Molina Bastos Hayashi](https://www.linkedin.com/in/yago-cauan-71717421b/)
+A equipe responsável por esse projeto é composta pelos integrantes [@Alexandre Sluzek Neto](https://www.linkedin.com/in/alexandre-sluzek-neto-5323a7207/), [@Arthur Donato de Souza Serafim](https://www.linkedin.com/in/arthur-donato-serafim-820216202/), [@Gabriela Delbue Garbin](https://www.linkedin.com/in/gabrieladelbuegarbin/), [@Matheus Castanharo de Brito](https://www.linkedin.com/in/matheus-castanharo-de-brito-01a399233/), [@Vinicius Mazon Viturino](https://www.linkedin.com/in/viniciusmazonviturino/), [@Vinicius Molina Bastos Hayashi](https://www.linkedin.com/in/vinicius-molina-bastos-hayashi/)
 
 ## Aprensetação Pitch - 10/06
 
